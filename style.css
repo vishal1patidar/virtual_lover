@@ -1,0 +1,212 @@
+.svg-animation-container{
+    background-color: rgb(56, 151, 155);
+    width: 410px;
+    height: 900px;
+    box-shadow: 0 1px 1px rgb(121, 113, 113) ;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 2%;
+}
+
+.svg-animation-container svg{
+    width: 100%;
+}
+
+
+#sun{
+    animation: hy 15s infinite alternate;
+}
+    @keyframes hy {
+        100% {
+            fill: rgb(201, 121, 18);
+        }
+        
+    }
+
+#Vector{
+    animation: hyt 15s infinite alternate;
+}
+    @keyframes hyt {
+        100% {
+            fill: rgb(81, 0, 233);
+        }
+        
+    }
+
+        #Vector_2{
+            animation: change 15s infinite alternate;
+        }
+            @keyframes change {
+                100% {
+                    fill: rgb(0, 0, 0);
+                }
+               
+            }
+
+            #Vector_3{
+                animation: change 15s infinite alternate;
+            }
+                @keyframes change {
+                    100% {
+                        fill: rgb(0, 0, 0);
+                    }
+                    
+                }
+                #Vector_4{
+                    animation: change 15s infinite alternate;
+                }
+                    @keyframes change {
+                        100% {
+                            fill: rgb(0, 0, 0);
+                        }
+                        
+                    }
+                    #Vector_5{
+                        animation: op 15s infinite alternate;
+                    }
+                        @keyframes op {
+                           100% {
+                                fill: rgb(255, 4, 100)
+                            }
+                            
+                        }
+                    #Vector_6{
+                        animation: op 15s infinite alternate;
+                    }
+                        @keyframes op {
+                            100% {
+                                fill: rgb(255, 4, 100)
+                            }
+                            
+                        }
+                        
+                                
+                            
+                                #Vector_11{
+                                    animation: p 15s infinite alternate;
+                                }
+                                    @keyframes p {
+                                        100% {
+                                            fill: rgb(255, 254, 253)
+                                        }
+                                        
+                                    }
+                                    #Vector_12{
+                                        animation: p 15s infinite alternate;
+                                    }
+                                        @keyframes p {
+                                            100% {
+                                                fill: rgb(0, 214, 179)
+                                            }
+                                            
+                                        }
+
+                                        #Vector_13{
+                                            animation: i 15s infinite alternate;
+                                        }
+                                            @keyframes i {
+                                                100% {
+                                                    fill: red
+                                                }
+                                                
+                                            }
+                                            #Vector_15{
+                                                animation: i 15s infinite alternate;
+                                            }
+                                                @keyframes i {
+                                                    100% {
+                                                        fill: red
+                                                    }
+                                                    
+                                                }
+                                                #Vector_17{
+                                                    animation: i 15s infinite alternate;
+                                                }
+                                                    @keyframes i {
+                                                        100% {
+                                                            fill: red
+                                                        }
+                                                        
+                                                    }
+
+                                                    #Vector_21{
+                                                        animation: m 15s infinite alternate;
+                                                    }
+                                                        @keyframes m {
+                                                            100% {
+                                                                fill: rgb(113, 243, 81)
+                                                            }
+                                                            
+                                                        }
+                                                        
+                                                    #Vector_27{
+                                                        animation: m 15s infinite alternate;
+                                                    }
+                                                        @keyframes m {
+                                                            100% {
+                                                                fill: rgb(113, 243, 81)
+                                                            }
+                                                            
+                                                        }
+                                                        
+                                                    #Vector_29{
+                                                        animation: m 15s infinite alternate;
+                                                    }
+                                                        @keyframes m {
+                                                            100% {
+                                                                fill: rgb(113, 243, 81)
+                                                            }
+                                                            
+                                                        }
+
+                                                        #Vector_23{
+                                                            animation: z 15s infinite alternate;
+                                                        }
+                                                            @keyframes z {
+                                                                100% {
+                                                                    fill: rgb(189, 8, 235)
+                                                                }
+                                                                
+                                                            }
+                                                            
+                                                        #Vector_25{
+                                                            animation: z 15s infinite alternate;
+                                                        }
+                                                            @keyframes z {
+                                                                100% {
+                                                                    fill: rgb(189, 8, 235) 
+                                                                }
+                                                                
+                                                            }
+
+                                                            #Vector_30{
+                                                                animation: b 15s infinite alternate;
+                                                            }
+                                                                @keyframes b {
+                                                                    100% {
+                                                                        fill: rgb(98, 203, 245)
+                                                                    }
+                                                                    
+                                                                }
+                                                                #Vector_31{
+                                                                    animation: b 15s infinite alternate;
+                                                                }
+                                                                    @keyframes b {
+                                                                        100% {
+                                                                            fill: rgb(98, 203, 245)
+                                                                        }
+                                                                        
+                                                                    }
+                                                        
+
+                        
+
+
+
+                       
+
+                         
+
+                    
+                       
+    
