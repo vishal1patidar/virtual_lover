@@ -1,8 +1,4 @@
 
-https://vishal46556.github.io/virtual_lover/
-
-
-
 ## Virtual lover
   
   ## Its svg animation graphics
